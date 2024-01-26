@@ -1,0 +1,21 @@
+.app-container {
+  background-color: #f5d0fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 9px;
+  border-radius: 5px;
+}
+
+.heading {
+  color: #000000;
+}
